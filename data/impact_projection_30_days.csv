@@ -1,0 +1,4 @@
+scenario,stockout_reduction_pct,stockout_days_reduced,units_recovered,revenue_recovered_inr,inventory_value_change_inr
+Worst Case,10,31445,246075,65360258,15308647
+Base Case,20,62890,492149,130720516,24493836
+Best Case,35,110058,861261,228760902,36740753
